@@ -15,7 +15,7 @@ This is an abstract.
 
 # Introduction
 
-This is an introduction.
+This is an introduction.!
 
 !["Figure 1: Voyant-Tools generated word cloud from the Pandoc manual pages."](./Voyant_Visualize.png)
 
