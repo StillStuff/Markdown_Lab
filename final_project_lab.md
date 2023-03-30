@@ -17,7 +17,7 @@ This is an abstract.
 
 This is an introduction.!
 
-!["Figure 1: Voyant-Tools generated word cloud from the Pandoc manual pages."](./Voyant_Visualize.png)
+!["Figure 1: Voyant-Tools generated word cloud from the Pandoc manual pages."](./pandoc_vis.png)
 
 # Methodology
 
